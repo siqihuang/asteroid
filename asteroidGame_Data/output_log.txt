@@ -1,0 +1,35 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M    (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\siqiHuang\Documents\GitHub\a\asteroidGame_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.135 seconds
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 0.604702 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 1.356373 ms (FindLiveObjects: 0.030378 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.270946 ms  DeleteObjects: 0.034484 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at levelGUI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

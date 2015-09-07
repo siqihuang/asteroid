@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8c31b8d0b9ec4ae429476c30ae78b149
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - asteroid1: {fileID: 100000, guid: fa88d6b9a32b4634f9a8841c8fb6883a, type: 2}
+  - asteroid2: {fileID: 100000, guid: cade344143fb3ab4f89ec42d8bcc1743, type: 2}
+  - asteroid3: {fileID: 100000, guid: b5150c0c3ddf18c4497f3cafd21e7336, type: 2}
+  - asteroid4: {fileID: 100000, guid: 5ae680ced2689ff4dbc2e65363c771dc, type: 2}
+  - spaceship: {fileID: 100004, guid: dbea9600e6a047b45bc5de023575f8d8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
